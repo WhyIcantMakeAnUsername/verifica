@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.example"
+versionCode = "22"
+version = "1.6.0" >
+<!-- nome della app -->
+<name>NomeNonCreativo</name>
+<!-- descrizione -->
+<description>
+Canzo
+</description>
+<!-- autore -->
+<author href="https://build.phonegap.com">
+Manzanilla Bryan
+</author>
+<!-- abilita links esterni -->
+<allow-navigation href="*://*.canossamilano.org/*" />
+
+<!-- piattaforma di riferimento ed icona della app -->
+<platform name="android">
+<icon src="images/100.jpg" density="ldpi" />
+<icon src="images/100.jpg" density="mdpi" />
+<icon src="images/100.jpg" density="hdpi" />
+<icon src="images/100.jpg" density="xhdpi" />
+</platform>
+</widget>
