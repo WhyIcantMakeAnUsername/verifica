@@ -19,9 +19,9 @@ Manzanilla Bryan
 
 <!-- piattaforma di riferimento ed icona della app -->
 <platform name="android">
-<icon src="images/100.jpg" density="ldpi" />
-<icon src="images/100.jpg" density="mdpi" />
-<icon src="images/100.jpg" density="hdpi" />
-<icon src="images/100.jpg" density="xhdpi" />
+<icon src="images/100.png" density="ldpi" />
+<icon src="images/100.png" density="mdpi" />
+<icon src="images/100.png" density="hdpi" />
+<icon src="images/100.png" density="xhdpi" />
 </platform>
 </widget>
